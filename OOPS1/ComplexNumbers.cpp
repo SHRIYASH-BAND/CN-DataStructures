@@ -46,9 +46,9 @@ int main()
 {
     int real1, imaginary1, real2, imaginary2;
 
-    cout<<"Enter real and img no"<<endl;
+    cout << "Enter real and img no" << endl;
     cin >> real1 >> imaginary1;
-    cout<<"Enter real and img no"<<endl;
+    cout << "Enter real and img no" << endl;
     cin >> real2 >> imaginary2;
 
     ComplexNumbers c1(real1, imaginary1);
